@@ -30,20 +30,12 @@ go=linux&color=FCC624)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 ## Mes projets
-### Projet 1 : Analyse des ventes d'une entreprise
-- **Description** : Analyse des ventes mensuelles pour prévoir les tendances futures.
-- **Technologies** : Python, pandas, Matplotlib, scikit-learn, SQL.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
+### Projet 1 : Analyse des performance de XXX
+- **Description** : Analyse des performances par recettes et création d'un outil d'alerte de rupture .
+- **Technologies** : Python, pandas, Matplotlib, (scikit-learn) à venir, SQL, PowerBI. 
+- **Lien vers le projet** : [lien vers le projet GitHub](Project link)
 
-### Projet 2 : Analyse des sentiments sur Twitter
-- **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
-- **Technologies** : BeautifulSoup, pandas, scikit-learn, WordCloud.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
 
-### Projet 3 : Prévision des stocks avec des séries temporelles
-- **Description** : Application de modèles de séries temporelles pour prévoir les niveaux de stock d'un produit.
-- **Technologies** : Python, statsmodels, Matplotlib.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
   
 <h2> 🤳 Connect with me:</h2>
 
